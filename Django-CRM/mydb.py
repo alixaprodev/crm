@@ -3,6 +3,7 @@
 # pip install mysql
 # pip install mysql-connector
 # pip install mysql-connector-python 
+# Update the files
 
 import mysql.connector
 
