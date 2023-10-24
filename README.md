@@ -1,3 +1,3 @@
-# full-stack-dev
-Learning Material Python-Django-React
-working on crm application
+# fcrm application
+
+this is just a simple crm. Reviing some concpets of django
